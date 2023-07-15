@@ -1,0 +1,45 @@
+.d1 {
+  display: flex;
+  box-sizing: border-box;
+  width: 20vw !important;
+  height: 30vw;
+  flex-direction: column;
+
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.container-1 {
+  display: flex;
+  flex-direction: row;
+}
+
+.d2 {
+  display: flex;
+  box-sizing: border-box;
+  width: 20vw !important;
+  height: 30vw;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.lab {
+  border: 1px solid black;
+  box-sizing: border-box;
+  width: 10vw !important;
+  margin: 3%;
+}
+
+.mar {
+  margin-bottom: 7%;
+}
+
+.circulo {
+  width: 30px;
+  height: 30px;
+  border: 1px solid black;
+  background-color: black;
+}
